@@ -1,0 +1,680 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  12 FEB 2020 18:23
+entering extended mode
+**./menu.tex
+(menu.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\artic
+le.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size1
+0.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\ba
+bel.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\sw
+itch.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblo
+pts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-span
+ish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\ba
+bel.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\tx
+tbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
+enc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\pal
+atino.sty"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks18
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.cfg"))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pbox\pbox.
+sty"
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc
+.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count96
+\calc@Cskip=\skip45
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip46
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nice
+frac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip47
+\L@UnitsRaiseTextstyle=\skip48
+\L@UnitsRaiseScriptstyle=\skip49
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/paralist\p
+aralist.sty"
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip50
+\plpartopsep=\skip51
+\plitemsep=\skip52
+\plparsep=\skip53
+\pl@lab=\toks19
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\s
+ubfiles.sty"
+Package: subfiles 2019/10/30 v1.5 Multi-file projects (package)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\imp
+ort.sty"
+Package: import 2009/03/23  v 5.1
+))
+No file menu.aux.
+\openout1 = `menu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 15.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1
+ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(36.135pt, 525.23788pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 772.77686pt, 36.135pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=525.23788pt
+* \textheight=772.77686pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-73.135pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen116
+\scratchbox=\box27
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen117
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) (semana1.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 14.
+<images/pollo-con-palta.png, id=1, 277.035pt x 184.43906pt>
+File: images/pollo-con-palta.png Graphic file (type png)
+<use images/pollo-con-palta.png>
+Package pdftex.def Info: images/pollo-con-palta.png  used on input line 14.
+(pdftex.def)             Requested size: 96.9637pt x 64.55463pt.
+File: images/pollo-con-palta.png Graphic file (type png)
+<use images/pollo-con-palta.png>
+Package pdftex.def Info: images/pollo-con-palta.png  used on input line 14.
+(pdftex.def)             Requested size: 96.9637pt x 64.55463pt.
+<images/ensalada-vegetal-con-carne.png, id=3, 293.59688pt x 206.27063pt>
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 40.
+(pdftex.def)             Requested size: 96.88725pt x 68.0695pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 40.
+(pdftex.def)             Requested size: 96.88725pt x 68.0695pt.
+
+Overfull \hbox (19.78418pt too wide) in paragraph at lines 40--40
+[]$[]$| 
+ []
+
+<images/tacos-integrales.jpg, id=4, 602.25pt x 401.5pt>
+File: images/tacos-integrales.jpg Graphic file (type jpg)
+<use images/tacos-integrales.jpg>
+Package pdftex.def Info: images/tacos-integrales.jpg  used on input line 83.
+(pdftex.def)             Requested size: 102.38113pt x 68.25409pt.
+File: images/tacos-integrales.jpg Graphic file (type jpg)
+<use images/tacos-integrales.jpg>
+Package pdftex.def Info: images/tacos-integrales.jpg  used on input line 83.
+(pdftex.def)             Requested size: 102.38113pt x 68.25409pt.
+
+Overfull \hbox (2.79651pt too wide) in paragraph at lines 83--83
+[]$[]$| 
+ []
+
+<images/pastel-brocoli.jpg, id=5, 246.6816pt x 138.7584pt>
+File: images/pastel-brocoli.jpg Graphic file (type jpg)
+<use images/pastel-brocoli.jpg>
+Package pdftex.def Info: images/pastel-brocoli.jpg  used on input line 104.
+(pdftex.def)             Requested size: 103.60556pt x 58.27812pt.
+File: images/pastel-brocoli.jpg Graphic file (type jpg)
+<use images/pastel-brocoli.jpg>
+Package pdftex.def Info: images/pastel-brocoli.jpg  used on input line 104.
+(pdftex.def)             Requested size: 103.60556pt x 58.27812pt.
+
+Overfull \hbox (4.02094pt too wide) in paragraph at lines 104--104
+[]$[]$| 
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 108--109
+[]\OT1/ppl/m/n/8 Carotes o be-ren-je-nas o
+ []
+
+<images/berenjenas_rebozadas.jpg, id=6, 803.0pt x 602.25pt>
+File: images/berenjenas_rebozadas.jpg Graphic file (type jpg)
+<use images/berenjenas_rebozadas.jpg>
+Package pdftex.def Info: images/berenjenas_rebozadas.jpg  used on input line 12
+4.
+(pdftex.def)             Requested size: 104.39366pt x 78.29524pt.
+File: images/berenjenas_rebozadas.jpg Graphic file (type jpg)
+<use images/berenjenas_rebozadas.jpg>
+Package pdftex.def Info: images/berenjenas_rebozadas.jpg  used on input line 12
+4.
+(pdftex.def)             Requested size: 104.39366pt x 78.29524pt.
+
+Overfull \hbox (4.80904pt too wide) in paragraph at lines 124--124
+[]$[]$| 
+ []
+
+<images/ensalada-cesar.jpg, id=7, 271.0125pt x 187.70125pt>
+File: images/ensalada-cesar.jpg Graphic file (type jpg)
+<use images/ensalada-cesar.jpg>
+Package pdftex.def Info: images/ensalada-cesar.jpg  used on input line 145.
+(pdftex.def)             Requested size: 108.40306pt x 75.07916pt.
+File: images/ensalada-cesar.jpg Graphic file (type jpg)
+<use images/ensalada-cesar.jpg>
+Package pdftex.def Info: images/ensalada-cesar.jpg  used on input line 145.
+(pdftex.def)             Requested size: 108.40306pt x 75.07916pt.
+
+Overfull \hbox (8.81844pt too wide) in paragraph at lines 145--145
+[]$[]$| 
+ []
+
+) (semana2.tex [1
+
+]
+Overfull \vbox (32.58304pt too high) has occurred while \output is active []
+
+
+[2{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <.
+/images/pollo-con-palta.png> <./images/ensalada-vegetal-con-carne.png> <./image
+s/tacos-integrales.jpg> <./images/pastel-brocoli.jpg> <./images/berenjenas_rebo
+zadas.jpg> <./images/ensalada-cesar.jpg>]
+<images/atun-cebollines.jpg, id=19, 247.92625pt x 204.765pt>
+File: images/atun-cebollines.jpg Graphic file (type jpg)
+<use images/atun-cebollines.jpg>
+Package pdftex.def Info: images/atun-cebollines.jpg  used on input line 15.
+(pdftex.def)             Requested size: 99.16873pt x 81.90454pt.
+File: images/atun-cebollines.jpg Graphic file (type jpg)
+<use images/atun-cebollines.jpg>
+Package pdftex.def Info: images/atun-cebollines.jpg  used on input line 15.
+(pdftex.def)             Requested size: 99.16873pt x 81.90454pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+<images/albondigas-rellenas.jpg, id=20, 10912.77pt x 7732.89pt>
+File: images/albondigas-rellenas.jpg Graphic file (type jpg)
+<use images/albondigas-rellenas.jpg>
+Package pdftex.def Info: images/albondigas-rellenas.jpg  used on input line 36.
+
+(pdftex.def)             Requested size: 100.40869pt x 71.15053pt.
+File: images/albondigas-rellenas.jpg Graphic file (type jpg)
+<use images/albondigas-rellenas.jpg>
+Package pdftex.def Info: images/albondigas-rellenas.jpg  used on input line 36.
+
+(pdftex.def)             Requested size: 100.40869pt x 71.15053pt.
+
+Overfull \hbox (0.82407pt too wide) in paragraph at lines 36--36
+[]$[]$| 
+ []
+
+<images/ensalada-de-pollo.png, id=21, 283.0575pt x 237.13594pt>
+File: images/ensalada-de-pollo.png Graphic file (type png)
+<use images/ensalada-de-pollo.png>
+Package pdftex.def Info: images/ensalada-de-pollo.png  used on input line 57.
+(pdftex.def)             Requested size: 113.22098pt x 94.85268pt.
+File: images/ensalada-de-pollo.png Graphic file (type png)
+<use images/ensalada-de-pollo.png>
+Package pdftex.def Info: images/ensalada-de-pollo.png  used on input line 57.
+(pdftex.def)             Requested size: 113.22098pt x 94.85268pt.
+
+Overfull \hbox (13.63635pt too wide) in paragraph at lines 57--57
+[]$[]$| 
+ []
+
+<images/ensalada-caprese-con-pollo.png, id=22, 423.08063pt x 279.29344pt>
+File: images/ensalada-caprese-con-pollo.png Graphic file (type png)
+<use images/ensalada-caprese-con-pollo.png>
+Package pdftex.def Info: images/ensalada-caprese-con-pollo.png  used on input l
+ine 82.
+(pdftex.def)             Requested size: 109.99837pt x 72.61458pt.
+File: images/ensalada-caprese-con-pollo.png Graphic file (type png)
+<use images/ensalada-caprese-con-pollo.png>
+Package pdftex.def Info: images/ensalada-caprese-con-pollo.png  used on input l
+ine 82.
+(pdftex.def)             Requested size: 109.99837pt x 72.61458pt.
+
+Overfull \hbox (19.61421pt too wide) in paragraph at lines 82--82
+[]$[]$| 
+ []
+
+<images/ensalada-brocoli-manzana.png, id=23, 237.88875pt x 197.98969pt>
+File: images/ensalada-brocoli-manzana.png Graphic file (type png)
+<use images/ensalada-brocoli-manzana.png>
+Package pdftex.def Info: images/ensalada-brocoli-manzana.png  used on input lin
+e 110.
+(pdftex.def)             Requested size: 95.15381pt x 79.19446pt.
+File: images/ensalada-brocoli-manzana.png Graphic file (type png)
+<use images/ensalada-brocoli-manzana.png>
+Package pdftex.def Info: images/ensalada-brocoli-manzana.png  used on input lin
+e 110.
+(pdftex.def)             Requested size: 95.15381pt x 79.19446pt.
+<images/ensalada-bacon-palta.png, id=24, 258.9675pt x 253.69781pt>
+File: images/ensalada-bacon-palta.png Graphic file (type png)
+<use images/ensalada-bacon-palta.png>
+Package pdftex.def Info: images/ensalada-bacon-palta.png  used on input line 14
+3.
+(pdftex.def)             Requested size: 103.58514pt x 101.47733pt.
+File: images/ensalada-bacon-palta.png Graphic file (type png)
+<use images/ensalada-bacon-palta.png>
+Package pdftex.def Info: images/ensalada-bacon-palta.png  used on input line 14
+3.
+(pdftex.def)             Requested size: 103.58514pt x 101.47733pt.
+
+Overfull \hbox (4.00052pt too wide) in paragraph at lines 143--143
+[]$[]$| 
+ []
+
+) (semana3.tex
+Overfull \vbox (52.013pt too high) has occurred while \output is active []
+
+
+[3 <./images/atun-cebollines.jpg> <./images/albondigas-rellenas.jpg> <./images/
+ensalada-de-pollo.png> <./images/ensalada-caprese-con-pollo.png> <./images/ensa
+lada-brocoli-manzana.png> <./images/ensalada-bacon-palta.png>]
+<images/Silpancho.jpg, id=32, 403.5075pt x 317.68687pt>
+File: images/Silpancho.jpg Graphic file (type jpg)
+<use images/Silpancho.jpg>
+Package pdftex.def Info: images/Silpancho.jpg  used on input line 14.
+(pdftex.def)             Requested size: 100.87662pt x 79.42151pt.
+File: images/Silpancho.jpg Graphic file (type jpg)
+<use images/Silpancho.jpg>
+Package pdftex.def Info: images/Silpancho.jpg  used on input line 14.
+(pdftex.def)             Requested size: 100.87662pt x 79.42151pt.
+
+Overfull \hbox (1.29199pt too wide) in paragraph at lines 14--14
+[]$[]$| 
+ []
+
+<images/sopa_de_mani.jpg, id=33, 579.66562pt x 323.70938pt>
+File: images/sopa_de_mani.jpg Graphic file (type jpg)
+<use images/sopa_de_mani.jpg>
+Package pdftex.def Info: images/sopa_de_mani.jpg  used on input line 41.
+(pdftex.def)             Requested size: 104.3353pt x 58.26517pt.
+File: images/sopa_de_mani.jpg Graphic file (type jpg)
+<use images/sopa_de_mani.jpg>
+Package pdftex.def Info: images/sopa_de_mani.jpg  used on input line 41.
+(pdftex.def)             Requested size: 104.3353pt x 58.26517pt.
+
+Overfull \hbox (4.75067pt too wide) in paragraph at lines 41--41
+[]$[]$| 
+ []
+
+<images/pique_macho.jpg, id=34, 579.66562pt x 323.70938pt>
+File: images/pique_macho.jpg Graphic file (type jpg)
+<use images/pique_macho.jpg>
+Package pdftex.def Info: images/pique_macho.jpg  used on input line 72.
+(pdftex.def)             Requested size: 115.93106pt x 64.74072pt.
+File: images/pique_macho.jpg Graphic file (type jpg)
+<use images/pique_macho.jpg>
+Package pdftex.def Info: images/pique_macho.jpg  used on input line 72.
+(pdftex.def)             Requested size: 115.93106pt x 64.74072pt.
+
+Overfull \hbox (16.34644pt too wide) in paragraph at lines 72--72
+[]$[]$| 
+ []
+
+<images/jaka-lawa.jpg, id=35, 579.66562pt x 323.70938pt>
+File: images/jaka-lawa.jpg Graphic file (type jpg)
+<use images/jaka-lawa.jpg>
+Package pdftex.def Info: images/jaka-lawa.jpg  used on input line 105.
+(pdftex.def)             Requested size: 115.93106pt x 64.74072pt.
+File: images/jaka-lawa.jpg Graphic file (type jpg)
+<use images/jaka-lawa.jpg>
+Package pdftex.def Info: images/jaka-lawa.jpg  used on input line 105.
+(pdftex.def)             Requested size: 115.93106pt x 64.74072pt.
+
+Overfull \hbox (16.34644pt too wide) in paragraph at lines 105--105
+[]$[]$| 
+ []
+
+<images/lluspichi.jpg, id=36, 600.2425pt x 446.66875pt>
+File: images/lluspichi.jpg Graphic file (type jpg)
+<use images/lluspichi.jpg>
+Package pdftex.def Info: images/lluspichi.jpg  used on input line 145.
+(pdftex.def)             Requested size: 120.04637pt x 89.33215pt.
+File: images/lluspichi.jpg Graphic file (type jpg)
+<use images/lluspichi.jpg>
+Package pdftex.def Info: images/lluspichi.jpg  used on input line 145.
+(pdftex.def)             Requested size: 120.04637pt x 89.33215pt.
+
+Overfull \hbox (20.46175pt too wide) in paragraph at lines 145--145
+[]$[]$| 
+ []
+
+<images/sopa-de-papaliza.jpg, id=37, 491.8375pt x 369.38pt>
+File: images/sopa-de-papaliza.jpg Graphic file (type jpg)
+<use images/sopa-de-papaliza.jpg>
+Package pdftex.def Info: images/sopa-de-papaliza.jpg  used on input line 182.
+(pdftex.def)             Requested size: 196.7315pt x 147.74937pt.
+File: images/sopa-de-papaliza.jpg Graphic file (type jpg)
+<use images/sopa-de-papaliza.jpg>
+Package pdftex.def Info: images/sopa-de-papaliza.jpg  used on input line 182.
+(pdftex.def)             Requested size: 196.7315pt x 147.74937pt.
+
+Overfull \hbox (97.14688pt too wide) in paragraph at lines 182--182
+[]$[]$| 
+ []
+
+) (semana4.tex
+Overfull \vbox (446.02162pt too high) has occurred while \output is active []
+
+
+[4 <./images/Silpancho.jpg> <./images/sopa_de_mani.jpg> <./images/pique_macho.j
+pg> <./images/jaka-lawa.jpg> <./images/lluspichi.jpg> <./images/sopa-de-papaliz
+a.jpg>]
+<images/revuelto-de-carne.png, id=41, 622.325pt x 379.4175pt>
+File: images/revuelto-de-carne.png Graphic file (type png)
+<use images/revuelto-de-carne.png>
+Package pdftex.def Info: images/revuelto-de-carne.png  used on input line 14.
+(pdftex.def)             Requested size: 99.57402pt x 60.70804pt.
+File: images/revuelto-de-carne.png Graphic file (type png)
+<use images/revuelto-de-carne.png>
+Package pdftex.def Info: images/revuelto-de-carne.png  used on input line 14.
+(pdftex.def)             Requested size: 99.57402pt x 60.70804pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 42.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 42.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 59.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 59.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 77.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 77.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 94.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 94.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 111.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+File: images/ensalada-vegetal-con-carne.png Graphic file (type png)
+<use images/ensalada-vegetal-con-carne.png>
+Package pdftex.def Info: images/ensalada-vegetal-con-carne.png  used on input l
+ine 111.
+(pdftex.def)             Requested size: 88.07973pt x 61.88165pt.
+) [5 <./images/revuelto-de-carne.png>] (menu.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3392 strings out of 492895
+ 52234 string characters out of 3119998
+ 152112 words of memory out of 3000000
+ 7215 multiletter control sequences out of 15000+200000
+ 13491 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,19n,41p,1134b,374s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ba
+se/8r.enc}<C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/urw/palatino/uplb8a.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on menu.pdf (5 pages, 3155992 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
