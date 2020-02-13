@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  12 FEB 2020 19:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  13 FEB 2020 17:34
 entering extended mode
 **./menu.tex
 (menu.tex
@@ -67,10 +67,6 @@ enc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-)
-("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\pal
-atino.sty"
-Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
 eometry.sty"
@@ -199,12 +195,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 15.
-
-("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1
-ppl.fd"
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
 
@@ -310,63 +300,47 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 17.
+
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmss
+.fd"
+File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (semana1.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 13.
-) (semana2.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 17.
+(Font)              <8> on input line 125.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 17.
-) (semana3.tex [1
+(Font)              <6> on input line 125.
+) (semana2.tex) (semana3.tex [1
 
-{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (3.23413pt too wide) in paragraph at lines 38--38
-[]$[]$| 
- []
-
-
-Overfull \hbox (1.1439pt too wide) in paragraph at lines 73--73
-[]$[]$| 
- []
-
-)
-Overfull \hbox (23.68532pt too wide) in paragraph at lines 4--22
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--22
-
- []
-
-[2]
-Overfull \vbox (136.79825pt too high) has occurred while \output is active []
-
-
-[3] (semana4.tex) [4] (menu.aux
+{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (s
+emana4.tex [2]) [3] [4]
+(menu.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3296 strings out of 492895
- 49441 string characters out of 3119998
- 165112 words of memory out of 3000000
- 7139 multiletter control sequences out of 15000+200000
- 13491 words of font info for 35 fonts, out of 3000000 for 9000
+ 3282 strings out of 492895
+ 49355 string characters out of 3119998
+ 161963 words of memory out of 3000000
+ 7132 multiletter control sequences out of 15000+200000
+ 27246 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,32p,1130b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/ba
-se/8r.enc}<C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/urw/palatino/uplb8a.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on menu.pdf (4 pages, 54183 bytes).
+ 41i,15n,32p,1124b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm
+/lm-rm.enc}<C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/lm/lmss10.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/lm/lmss17.pfb><C:/Users/edson alvarez/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/edson alvarez/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on menu.pdf (4 pages, 109200 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
+ 32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

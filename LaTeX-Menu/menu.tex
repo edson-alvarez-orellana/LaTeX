@@ -1,7 +1,7 @@
 \documentclass{article}
 \usepackage[spanish]{babel} % hyphenation
 \usepackage[utf8]{inputenc} % accents
-\usepackage{palatino} % Use the Palatino font
+%\usepackage{palatino} % Use the Palatino font
 \usepackage{geometry}
 \usepackage{pbox}
 \usepackage{nicefrac}
@@ -11,8 +11,11 @@
 \pagestyle{empty}
 \graphicspath{ {images/} }
 
-\geometry{a4paper, portrait, margin=0.5in}
+\geometry{a4paper, margin=0.5in}
 \begin{document} 
+
+\fontfamily{lmss}\selectfont 
+%\fontfamily{cmss}\selectfont
 
 \subfile{semana1.tex}
 
@@ -20,6 +23,6 @@
 
 \subfile{semana3.tex}
 
-\subfile{semana4.tex}
+\subfile{semana4.tex} 
 
 \end{document}
