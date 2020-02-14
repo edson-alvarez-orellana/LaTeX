@@ -1,9 +1,25 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  13 FEB 2020 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  14 FEB 2020 14:34
 entering extended mode
-**./menu.tex
-(menu.tex
+**./postres.tex
+(postres.tex
 LaTeX2e <2018-12-01>
 
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\s
+ubfiles.cls"
+Document Class: subfiles 2019/10/30 v1.5 Multi-file projects (class)
+Preamble taken from file `menu.tex'
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verb
+atim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\imp
+ort.sty"
+Package: import 2009/03/23  v 5.1
+) (menu.tex
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\artic
 le.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -55,7 +71,7 @@ File: babel.def 2019/07/19 3.33 Babel common definitions
 tbabel.def")
 \bbl@dirlevel=\count89
 )
-\es@quottoks=\toks14
+\es@quottoks=\toks16
 \es@quotdepth=\count90
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
@@ -65,8 +81,8 @@ Package babel Info: Making > an active character on input line 707.
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
 enc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
 eometry.sty"
@@ -75,7 +91,7 @@ Package: geometry 2018/04/16 v5.8 Page Geometry
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
 eyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks19
 )
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
 \ifpdf.sty"
@@ -101,7 +117,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutheight=\dimen109
 \Gm@layouthoffset=\dimen110
 \Gm@layoutvoffset=\dimen111
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks20
 
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
 eometry.cfg"))
@@ -143,7 +159,7 @@ Package: paralist 2017/01/22 v2.7 Extended list environments
 \plpartopsep=\skip51
 \plitemsep=\skip52
 \plparsep=\skip53
-\pl@lab=\toks19
+\pl@lab=\toks21
 )
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
 raphicx.sty"
@@ -173,30 +189,26 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfiles\s
 ubfiles.sty"
 Package: subfiles 2019/10/30 v1.5 Multi-file projects (package)
-
-("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/import\imp
-ort.sty"
-Package: import 2009/03/23  v 5.1
-)) (menu.aux
+))) (postres.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
-\openout1 = `menu.aux'.
+\openout1 = `postres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -241,12 +253,12 @@ i\supp-pdf.mkii"
 \scratchbox=\box27
 \nofMPsegments=\count98
 \nofMParguments=\count99
-\everyMPshowfont=\toks20
+\everyMPshowfont=\toks22
 \MPscratchCnt=\count100
 \MPscratchDim=\dimen117
 \MPnumerator=\count101
 \makeMPintoPDFobject=\count102
-\everyMPtoPDFconversion=\toks21
+\everyMPtoPDFconversion=\toks23
 )
 ("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
 pstopdf-base.sty"
@@ -301,46 +313,49 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 17.
-
-
-("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmss
-.fd"
-File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (semana1.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 125.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 125.
-) (semana2.tex) (semana3.tex [1
 
-{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (s
-emana4.tex [2]) [3] [4]
-(menu.aux
+Overfull \hbox (25.26694pt too wide) in paragraph at lines 27--27
+[]$[]$| 
+ []
+
+
+Overfull \hbox (25.16972pt too wide) in paragraph at lines 42--42
+[]$[]$| 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 157.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 157.
+[1
+
+{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(postres.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3282 strings out of 492895
- 49355 string characters out of 3119998
- 161963 words of memory out of 3000000
- 7132 multiletter control sequences out of 15000+200000
- 27246 words of font info for 28 fonts, out of 3000000 for 9000
+ 3261 strings out of 492895
+ 49057 string characters out of 3119998
+ 138715 words of memory out of 3000000
+ 7124 multiletter control sequences out of 15000+200000
+ 5762 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,32p,1124b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm
-/lm-rm.enc}<C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmss10.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/lm/lmss17.pfb><C:/Users/edson alvarez/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/Users/edson alvarez/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on menu.pdf (4 pages, 109200 bytes).
+ 41i,15n,41p,368b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/edson alvarez/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/edson a
+lvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr8.pfb>
+Output written on postres.pdf (1 page, 67354 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
