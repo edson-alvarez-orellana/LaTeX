@@ -1,0 +1,1236 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.8)  21 FEB 2020 18:44
+entering extended mode
+**./recetas.tex
+(recetas.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\artic
+le.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size1
+1.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\ba
+bel.sty"
+Package: babel 2019/07/19 3.33 The Babel package
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\sw
+itch.def"
+File: switch.def 2019/07/19 3.33 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblo
+pts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-span
+ish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\ba
+bel.def"
+File: babel.def 2019/07/19 3.33 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\tx
+tbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\input
+enc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern
+.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nice
+frac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip43
+\L@UnitsRaiseTextstyle=\skip44
+\L@UnitsRaiseScriptstyle=\skip45
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthe
+n.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)) (xcookybooky.sty
+Package: xcookybooky 2015/03/03 v1.5 Easy typesetting (potentially long) recipe
+s with pictures
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/fronte
+ndlayer\tikz.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basicl
+ayer\pgf.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgfrcs.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen104
+\pgfutil@tempdimb=\dimen105
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-common-lists.tex"))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfutil-latex.def"
+\pgfutil@abb=\box27
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysh
+i.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfrcs.code.tex"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.
+revision.tex")
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basicl
+ayer\pgfcore.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/system
+layer\pgfsys.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys.code.tex"
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen108
+\pgf@y=\dimen109
+\pgf@xa=\dimen110
+\pgf@ya=\dimen111
+\pgf@xb=\dimen112
+\pgf@yb=\dimen113
+\pgf@xc=\dimen114
+\pgf@yc=\dimen115
+\pgf@xd=\dimen116
+\pgf@yd=\dimen117
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count91
+\c@pgf@countb=\count92
+\c@pgf@countc=\count93
+\c@pgf@countd=\count94
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count95
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgf.cfg"
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count96
+\pgfsyssoftpath@bigbuffer@items=\count97
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/syst
+emlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xco
+lor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcore.code.tex"
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathcalc.code.tex"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathutil.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen118
+\pgfmath@count=\count98
+\pgfmath@box=\box28
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.code.tex"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.basic.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.trigonometric.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.random.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.comparison.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.base.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.round.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.misc.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count99
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfint.code.tex")
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen119
+\pgf@picmaxx=\dimen120
+\pgf@picminy=\dimen121
+\pgf@picmaxy=\dimen122
+\pgf@pathminx=\dimen123
+\pgf@pathmaxx=\dimen124
+\pgf@pathminy=\dimen125
+\pgf@pathmaxy=\dimen126
+\pgf@xx=\dimen127
+\pgf@xy=\dimen128
+\pgf@yx=\dimen129
+\pgf@yy=\dimen130
+\pgf@zx=\dimen131
+\pgf@zy=\dimen132
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen133
+\pgf@path@lasty=\dimen134
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen135
+\pgf@shorten@start@additional=\dimen136
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count100
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen137
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen138
+\pgf@pt@y=\dimen139
+\pgf@pt@temp=\dimen140
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen141
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen142
+\pgf@sys@shading@range@num=\count101
+\pgf@shadingcount=\count102
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box32
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basi
+clayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box33
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compat
+ibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen143
+\pgf@nodesepend=\dimen144
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compat
+ibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgffor.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilit
+ies\pgfkeys.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgfkeys.code.tex"))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\p
+gfmath.sty"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex"))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgffor.code.tex"
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math
+\pgfmath.code.tex")
+\pgffor@iter=\dimen145
+\pgffor@skip=\dimen146
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz\tikz.code.tex"
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libr
+aries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count103
+\pgfplotmarksize=\dimen147
+)
+\tikz@lastx=\dimen148
+\tikz@lasty=\dimen149
+\tikz@lastxsaved=\dimen150
+\tikz@lastysaved=\dimen151
+\tikz@lastmovetox=\dimen152
+\tikz@lastmovetoy=\dimen153
+\tikzleveldistance=\dimen154
+\tikzsiblingdistance=\dimen155
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count104
+\tikznumberofchildren=\count105
+\tikznumberofcurrentchild=\count106
+\tikz@fig@count=\count107
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modu
+les\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count108
+\pgfmatrixcurrentcolumn=\count109
+\pgf@matrix@numberofcolumns=\count110
+)
+\tikz@expandcount=\count111
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/fron
+tendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/fonts/ifsym\ifsy
+m.sty"
+Package: ifsym 2000/04/18 I.Kloeckl
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc
+.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
+\calc@Askip=\skip46
+\calc@Bskip=\skip47
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count114
+\calc@Cskip=\skip48
+)
+\c@ifsymcnt=\count115
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cookingsym
+bols\cookingsymbols.sty"
+Package: cookingsymbols 2014/12/28 v1.1 symbols for recipes by Sven Harder
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/emerald\em
+erald.sty"
+Package: emerald 2006/01/26 v1.0 LaTeX2e package which gives support for ECF (e
+merald city fontwerks) fonts
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wr
+apfig.sty"
+\wrapoverhang=\dimen158
+\WF@size=\dimen159
+\c@WF@wrappedlines=\count116
+\WF@box=\box38
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\iflang.sty"
+Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package iflang Info: Naming convention for patterns: babel.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xk
+eyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\
+xkeyval.tex"
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\
+xkvutils.tex"
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count117
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\l
+ettrine.sty"
+File: lettrine.sty 2019-04-06 v2.22 (Daniel Flipo)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/minifp\m
+inifp.sty"
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count118
+)
+\c@DefaultLines=\count119
+\c@DefaultDepth=\count120
+\DefaultFindent=\dimen160
+\DefaultNindent=\dimen161
+\DefaultSlope=\dimen162
+\DiscardVskip=\dimen163
+\L@lbox=\box39
+\L@tbox=\box40
+\c@L@lines=\count121
+\c@L@depth=\count122
+\L@Pindent=\dimen164
+\L@Findent=\dimen165
+\L@Nindent=\dimen166
+\L@lraise=\dimen167
+\L@first=\dimen168
+\L@next=\dimen169
+\L@slope=\dimen170
+\L@height=\dimen171
+\L@novskip=\dimen172
+\L@target@ht=\dimen173
+\L@target@dp=\dimen174
+\L@target@tht=\dimen175
+\LettrineWidth=\dimen176
+\LettrineHeight=\dimen177
+\LettrineDepth=\dimen178
+\Llist@everypar=\toks33
+
+Loading lettrine.cfg
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lettrine\l
+ettrine.cfg"))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\f
+ancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\unit
+s.sty"
+Package: units 1998/08/04 v0.9b Typesetting units
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\es
+o-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\p
+icture.sty"
+Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
+Package picture Info: Calculation method: calc.
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabulary\t
+abulary.sty"
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\arra
+y.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen179
+\ar@mcellbox=\box41
+\extrarowheight=\dimen180
+\NC@list=\toks34
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box42
+)
+\TY@count=\count123
+\TY@linewidth=\dimen181
+\tymin=\dimen182
+\tymax=\dimen183
+\TY@tablewidth=\dimen184
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\fra
+med.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip60
+\fb@frw=\dimen185
+\fb@frh=\dimen186
+\FrameRule=\dimen187
+\FrameSep=\dimen188
+)
+\c@step=\count124
+\c@xcb@newpagehead=\count125
+\c@xcb@newpagefoot=\count126
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\
+blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspa
+ce.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count127
+\c@Blindtext=\count128
+\c@blind@countparstart=\count129
+\blind@countxx=\count130
+\blindtext@numBlindtext=\count131
+\blind@countyy=\count132
+\c@blindlist=\count133
+\c@blindlistlevel=\count134
+\c@blindlist@level=\count135
+\blind@listitem=\count136
+\c@blind@listcount=\count137
+\c@blind@levelcount=\count138
+\blind@mathformula=\count139
+\blind@Mathformula=\count140
+\c@blind@randomcount=\count141
+\c@blind@randommax=\count142
+\c@blind@pangramcount=\count143
+\c@blind@pangrammax=\count144
+) (recetas.aux (tex/Pique_Macho.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+
+(tex/Ensalada_de_pollo_con_palta.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/lluspichi.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+(tex/Ensalada_Cesar.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Tacos_Integrales.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Silpancho.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+(tex/Pastel_de_Brocoli.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Ensalada_de_Apio_Manzana.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+))
+\openout1 = `recetas.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 27.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.
+fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ ABD: EveryShipout initializing macros
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen189
+\scratchbox=\box43
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen190
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks36
+)
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box44
+\openout2 = `tex/Pique_Macho.aux'.
+
+ (tex/Pique_Macho.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/pique_macho.jpg, id=4, 579.66562pt x 353.82187pt>
+File: pic/pique_macho.jpg Graphic file (type jpg)
+<use pic/pique_macho.jpg>
+Package pdftex.def Info: pic/pique_macho.jpg  used on input line 60.
+(pdftex.def)             Requested size: 264.61507pt x 161.51828pt.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 60.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.
+fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
+
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy
+.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 60.
+
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex
+.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 60.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 60.
+LaTeX Font Info:    Try loading font information for T1+fjd on input line 60.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/latex/emerald\t1
+fjd.fd"
+File: t1fjd.fd 2006/01/25 Fontinst v1.926 font definitions for T1/fjd.
+)
+LaTeX Font Info:    Try loading font information for U+ifsym on input line 60.
+
+("C:\Users\edson alvarez\AppData\Local\Programs\MiKTeX 2.9\tex/fonts/ifsym\uifs
+ym.fd")
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (5) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (6) loversize=0.15;
+(lettrine.sty)             reported on input line 60.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+)
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [1{C:/Users/edson alvarez/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./pic/pique_macho.jpg>]
+\openout2 = `tex/Ensalada_de_pollo_con_palta.aux'.
+
+ (tex/Ensalada_de_pollo_con_palta.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/ensalada-pollo-mango-palta.png, id=18, 305.64188pt x 236.38312pt>
+File: pic/ensalada-pollo-mango-palta.png Graphic file (type png)
+<use pic/ensalada-pollo-mango-palta.png>
+Package pdftex.def Info: pic/ensalada-pollo-mango-palta.png  used on input line
+ 58.
+(pdftex.def)             Requested size: 220.7382pt x 170.7187pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (5) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (6) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (7) loversize=0.15;
+(lettrine.sty)             reported on input line 58.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+)
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [2
+
+
+ <./pic/ensalada-pollo-mango-palta.png>]
+\openout2 = `tex/lluspichi.aux'.
+
+ (tex/lluspichi.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/lluspichi.jpg, id=24, 600.2425pt x 446.66875pt>
+File: pic/lluspichi.jpg Graphic file (type jpg)
+<use pic/lluspichi.jpg>
+Package pdftex.def Info: pic/lluspichi.jpg  used on input line 61.
+(pdftex.def)             Requested size: 229.4134pt x 170.71733pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 61.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 61.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 61.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 61.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (5) loversize=0.15;
+(lettrine.sty)             reported on input line 61.
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+)
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [3
+
+
+ <./pic/lluspichi.jpg>]
+\openout2 = `tex/Ensalada_Cesar.aux'.
+
+(tex/Ensalada_Cesar.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/ensalada-cesar.jpg, id=28, 271.0125pt x 187.70125pt>
+File: pic/ensalada-cesar.jpg Graphic file (type jpg)
+<use pic/ensalada-cesar.jpg>
+Package pdftex.def Info: pic/ensalada-cesar.jpg  used on input line 48.
+(pdftex.def)             Requested size: 246.50595pt x 170.72821pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 48.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 48.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 48.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 48.
+LaTeX Info: Redefining \. on input line 50.
+LaTeX Info: Redefining \% on input line 50.
+)
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [4
+
+
+ <./pic/ensalada-cesar.jpg>]
+\openout2 = `tex/Tacos_Integrales.aux'.
+
+
+(tex/Tacos_Integrales.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/tacos-integrales.jpg, id=32, 432.11438pt x 161.85469pt>
+File: pic/tacos-integrales.jpg Graphic file (type jpg)
+<use pic/tacos-integrales.jpg>
+Package pdftex.def Info: pic/tacos-integrales.jpg  used on input line 57.
+(pdftex.def)             Requested size: 264.62456pt x 99.11894pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 57.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 57.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 57.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 57.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (5) loversize=0.15;
+(lettrine.sty)             reported on input line 57.
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+)
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+ [5
+
+
+ <./pic/tacos-integrales.jpg>]
+\openout2 = `tex/Silpancho.aux'.
+
+ (tex/Silpancho.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/silpancho.jpg, id=36, 403.5075pt x 317.68687pt>
+File: pic/silpancho.jpg Graphic file (type jpg)
+<use pic/silpancho.jpg>
+Package pdftex.def Info: pic/silpancho.jpg  used on input line 54.
+(pdftex.def)             Requested size: 216.83795pt x 170.71942pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 54.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 54.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 54.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 54.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+)
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[6
+
+
+ <./pic/silpancho.jpg>]
+\openout2 = `tex/Pastel_de_Brocoli.aux'.
+
+ (tex/Pastel_de_Brocoli.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/pastel-de-brocoli.jpg, id=40, 493.0922pt x 277.035pt>
+File: pic/pastel-de-brocoli.jpg Graphic file (type jpg)
+<use pic/pastel-de-brocoli.jpg>
+Package pdftex.def Info: pic/pastel-de-brocoli.jpg  used on input line 50.
+(pdftex.def)             Requested size: 264.6256pt x 148.67513pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 50.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 50.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 50.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (4) loversize=0.15;
+(lettrine.sty)             reported on input line 50.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (5) loversize=0.15;
+(lettrine.sty)             reported on input line 50.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+)
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [7
+
+
+ <./pic/pastel-de-brocoli.jpg>]
+\openout2 = `tex/Ensalada_de_Apio_Manzana.aux'.
+
+ (tex/Ensalada_de_Apio_Manzana.tex
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+<pic/ensalada-manzana-apio.jpg, id=45, 1204.5pt x 803.0pt>
+File: pic/ensalada-manzana-apio.jpg Graphic file (type jpg)
+<use pic/ensalada-manzana-apio.jpg>
+Package pdftex.def Info: pic/ensalada-manzana-apio.jpg  used on input line 47.
+(pdftex.def)             Requested size: 256.07692pt x 170.71794pt.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (1) loversize=0.15;
+(lettrine.sty)             reported on input line 47.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (2) loversize=0.15;
+(lettrine.sty)             reported on input line 47.
+Package lettrine.sty Info: Targeted height = 19.0604pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 20.20572pt (3) loversize=0.15;
+(lettrine.sty)             reported on input line 47.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+)
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+ [8
+
+
+ <./pic/ensalada-manzana-apio.jpg>] (recetas.aux (tex/Pique_Macho.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ (tex/Ensalada_de_pollo_con_palta.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+(tex/lluspichi.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Ensalada_Cesar.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Tacos_Integrales.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+(tex/Silpancho.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+) (tex/Pastel_de_Brocoli.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)
+(tex/Ensalada_de_Apio_Manzana.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+)) ) 
+Here is how much of TeX's memory you used:
+ 14865 strings out of 492895
+ 295637 string characters out of 3119998
+ 356841 words of memory out of 3000000
+ 18367 multiletter control sequences out of 15000+200000
+ 40618 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,12n,50p,649b,990s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/l
+m/lm-rm.enc} <C:\Users\edson alvarez\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/p
+ublic/ifsym/dpi657\ifsym10.pk> <C:\Users\edson alvarez\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/public/cookingsymbols/dpi870\cookingsymbols.pk>{C:/Users/edson
+ alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/User
+s/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/emerald/fjdmw.pfb
+><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/l
+m/lmbx10.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Users/edson alvarez/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/lm/lmr12.pfb><C:/Users/edson alvarez/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Users/edson alvarez/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Users/edson alvarez
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb>
+Output written on recetas.pdf (8 pages, 963885 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+
